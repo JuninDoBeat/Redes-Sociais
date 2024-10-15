@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
 :root{
-    --bg-color: #799351;
-    --cor--primaria: #A1DD70;
+    --bg-color: #18cdec;
+    --cor--primaria: #000000;
     --cor-secundaria: #F6EEC9;
-    --cor-terceira: #EE4E4E;
+    --cor-terceira: #000000;
     --font: "Nunito Sans", sans-serif;
     --font2: "Dancing Script", cursive;
 
